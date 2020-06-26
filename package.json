@@ -1,0 +1,26 @@
+{
+  "name": "packer-tarea2-nodejs-app",
+  "version": "1.0.0",
+  "description": "example nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollerocas/packer-tarea2-nodejs-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "example"
+  ],
+  "author": "rollerocas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rollerocas/packer-tarea2-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/rollerocas/packer-tarea2-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
