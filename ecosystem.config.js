@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: "packer-tarea2-nodejs-app",
-    script: "packer-tarea2-nodejs-app/index.js",
+    script: "./index.js",
     env: {
       NODE_ENV: "production",
     },
