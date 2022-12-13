@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/rollerocas/packer-tarea2-nodejs-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
